@@ -12,9 +12,9 @@ Put it in the root directory.
 ### Dataset
  Download the dataset and put it in the root directory.
  
- Images      - https://drive.google.com/open?id=1zn-AGmsBqVheFPnDTXWBpeo3XRH1Ho15
- 
- Annotations - https://drive.google.com/open?id=1LiTDMWk0KglGueJCaxgneEA_ltvEbUDV
+Images и Annotations:
+https://drive.google.com/open?id=1nO9HxHHRcrl5PZS0NDKmfkxxH20Ifh7e
+https://drive.google.com/open?id=1gSz9sSbgnhkoaSwlAigGpxxCOiLxo6mr
  
 ### Training
 Run train.py
