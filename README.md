@@ -26,13 +26,28 @@ Run train.py
 
 The weights for the front-end will be saved in the file name "model.h5".
 
-I have uploaded the front-end weights.
-https://drive.google.com/file/d/1wg4q9cc6q04oRr_Xaf9GVhhbTSH4-ena/view?usp=sharing
+Images и Annotations:
+
+
+https://drive.google.com/open?id=1nO9HxHHRcrl5PZS0NDKmfkxxH20Ifh7e
+
+
+https://drive.google.com/open?id=1gSz9sSbgnhkoaSwlAigGpxxCOiLxo6mr
+ 
+### Training
+Run train.py
+
+
+The weights for the front-end will be saved in the file name "model.h5".
+
+Model.h5:
+https://drive.google.com/open?id=1k7C9xlQF5oZN0f8Kun9_id_GJyJyKK_b
 
 
 ### Testing
 
 Model (model.h5): https://drive.google.com/open?id=1k7C9xlQF5oZN0f8Kun9_id_GJyJyKK_b
+
 
 
 Give the path to your image in predict.py
