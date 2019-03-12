@@ -34,6 +34,4 @@ Give the path to your image in predict.py
 
 Run predict.py
 
-## License
-This project is licensed under the MIT License 
 
