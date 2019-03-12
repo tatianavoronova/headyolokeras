@@ -13,7 +13,11 @@ Put it in the root directory.
  Download the dataset and put it in the root directory.
  
 Images и Annotations:
+
+
 https://drive.google.com/open?id=1nO9HxHHRcrl5PZS0NDKmfkxxH20Ifh7e
+
+
 https://drive.google.com/open?id=1gSz9sSbgnhkoaSwlAigGpxxCOiLxo6mr
  
 ### Training
