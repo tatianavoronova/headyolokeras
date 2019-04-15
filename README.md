@@ -52,6 +52,6 @@ Model (model.h5): https://drive.google.com/open?id=1k7C9xlQF5oZN0f8Kun9_id_GJyJy
 
 Give the path to your image in predict.py
 
-Run predict.py
+Run head_detection.py
 
 
